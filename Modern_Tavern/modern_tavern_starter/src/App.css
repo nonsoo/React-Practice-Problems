@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  margin: 4em auto;
+  border: 1px solid red;
+  width: 500px;
+  padding: 1em;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+
+  margin-bottom: 1em;
+}
+
+.btn {
+  border: none;
+
+  padding: 0.25em 1em;
+  border-radius: 5px;
+  font-size: 1.25rem;
+
+  cursor: pointer;
+  background-color: rgb(128, 128, 128);
+}
+
+.btn:hover {
+  background-color: rgba(128, 128, 128, 0.434);
+}
+
+h2 {
+  text-align: center;
+}
+
+h2 ~ p {
+  margin: 1em;
+  text-align: center;
+}
