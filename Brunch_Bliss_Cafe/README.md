@@ -1,8 +1,8 @@
-# Royal Thai Bistro
+# Brunch Bliss Café
 
-Royal Thai Bistro (client) has approached us to enhance their restaurant application with a new feature. Specifically, they want a keyword search functionality that allows users to type into a textbox and get search results based on the keyword from their menu. Your colleague started working on this feature but has been pulled away for an urgent issue and has passed the task on to you.
+Brunch Bliss Café (client) has approached us to enhance their restaurant application with a new feature. Specifically, they want a keyword search functionality that allows users to type into a textbox and get search results based on the keyword from their menu. Your colleague started working on this feature but has been pulled away for an urgent issue and has passed the task on to you.
 
-Your challenge, should you choose to accept it, is to build the keyword search feature for our client, Royal Thai Bistro.
+Your challenge, should you choose to accept it, is to build the keyword search feature for our client, Brunch Bliss Café.
 
 ## Part 1 (Build Feature)
 
