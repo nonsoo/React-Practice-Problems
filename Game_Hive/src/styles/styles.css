@@ -1,0 +1,41 @@
+.main {
+  max-width: 500px;
+  margin: 0 auto;
+  align-content: center;
+  border: 1px solid black;
+  padding: 1em;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 2em;
+}
+
+.actions__count {
+  margin-bottom: 2em;
+}
+
+.btn {
+  border: none;
+  padding: 1em 2em;
+  background-color: transparent;
+  border: 2px solid black;
+  margin-right: 1em;
+  cursor: pointer;
+  width: 100%;
+
+  margin-bottom: 1em;
+}
+
+.btn:hover {
+  background-color: #efefef;
+}
+
+.btn:active,
+.btn:focus {
+  background-color: #a2a1a1;
+}
